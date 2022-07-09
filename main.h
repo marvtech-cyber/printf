@@ -4,12 +4,8 @@
 
 int _printf(const char *format, ...);
 int _putchar(char c);
-
-
-
-
 /**
- * struct list_format - structure 
+ * struct list_format - structure
  * @tf: type of format
  * @nfunc: name of function
  */
