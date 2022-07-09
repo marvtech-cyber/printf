@@ -15,6 +15,7 @@ int (*get_func_format(const char *format))(va_list)
 	format_t list_format[] = {
 		{"c", print_char},
 		{"s", print_string},
+		{"%", print_percent},
 
 		{NULL, NULL}
 	};
