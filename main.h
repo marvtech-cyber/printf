@@ -4,6 +4,7 @@
 
 int _printf(const char *format, ...);
 int _putchar(char c);
+int print_number(int n);
 /**
  * struct list_format - structure
  * @tf: type of format
