@@ -19,5 +19,5 @@ int (*get_func_format(const char *format))(va_list);
 int print_char(va_list print);
 int print_string(va_list print);
 int print_percent(va_list print);
-
+int print_integer(va_list print);
 #endif
