@@ -1,0 +1,5 @@
+.\" man page for _printf
+
+SYNOPSIS 
+_printf OPTION
+int edge_case(const char *format, va_list);
