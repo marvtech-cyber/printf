@@ -17,3 +17,10 @@ The following specifiers are used with the printf function:
 	%d : print a decimal.
 
 	%i : print an integer.
+
+RETURN VALUE:
+Upon successful return the functions return the number of characters printed excluding NULL byte used at end of string.
+
+CO AUTHORS:
+Marvin Nyarenchi @github(marvtech-cyber)
+Humphrey Kiriama @github(hkiriama)
