@@ -1,5 +1,19 @@
 .\" man page for _printf
 
-SYNOPSIS 
+SYNOPSIS: 
 _printf OPTION
 int edge_case(const char *format, va_list);
+_printf(function)
+
+DESCRIPTION:
+The following specifiers are used with the printf function:
+
+	%c : print a character.
+
+	%s : print a string of characters.
+
+	%% : print %.
+
+	%d : print a decimal.
+
+	%i : print an integer.
